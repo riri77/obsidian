@@ -176,10 +176,7 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "line-notes-sync:Sync LINE messages": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "f3b58091e965335d",
