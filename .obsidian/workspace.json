@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "400c9f2453583b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a708ea194f5584d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f42bccaeb1eb57bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c24d0299f95eb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4621f7ce8c62d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b58091e965335d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "2d85920deb6cd8f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "1644fdfab05151bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8003e8f178bfa314",
+    "type": "split",
+    "children": [
+      {
+        "id": "8030fa03e4a05d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a12c96c8a623d759",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINE/LINE メッセージ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LINE メッセージへのバックリンク"
+            }
+          },
+          {
+            "id": "3c988c9ebd977184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINE/LINE メッセージ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LINE メッセージからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "2557131b58d711e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "0a07a20da815abc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "5d97b3673624d4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINE/LINE メッセージ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LINE メッセージのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "line-notes-sync:Sync LINE messages": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f3b58091e965335d",
+  "lastOpenFiles": [
+    "git_for_iphone/token.txt",
+    "git_for_iphone",
+    "新しいフォルダー",
+    "Zettelkasten/20_LiteratureNote/寺田 学-真太朗-Pythonによるあたらしいデータ分析の教科書 第2版.md",
+    "Zettelkasten/20_LiteratureNote/メンタリストDaiGo-人を操る禁断の文章術.md",
+    "Zettelkasten/20_LiteratureNote/功-メタ思考トレーニング 発想力が飛躍的にアップする34問 PHPビジネス新書.md",
+    "Zettelkasten/20_LiteratureNote/大石哲之-コンサル一年目が学ぶこと 新人・就活生からベテラン社員まで一生役立つ究極のベーシックスキル30選.md",
+    "Zettelkasten/20_LiteratureNote/朝井リョウ-正欲.md",
+    "Zettelkasten/20_LiteratureNote/惇志-CSS設計完全ガイド　～詳細解説＋実践的モジュール集.md",
+    "Zettelkasten/20_LiteratureNote/アラン・ピーズ-藤井留美-話を聞かない男、地図が読めない女.md",
+    "LINE/LINE メッセージ.md",
+    "LINE",
+    "Zettelkasten/30_FeelingNote",
+    "Zettelkasten/20_LiteratureNote",
+    "Zettelkasten/10_PermanentNote",
+    "Zettelkasten/02_Rule",
+    "Zettelkasten/01_IndexNote",
+    "Zettelkasten",
+    "Welcome.md"
+  ]
+}
