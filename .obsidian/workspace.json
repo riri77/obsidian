@@ -11,10 +11,14 @@
             "id": "f42bccaeb1eb57bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/用語.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "用語"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "ファイルエクスプローラ"
+              "title": "Files"
             }
           },
           {
@@ -160,27 +164,43 @@
               "icon": "lucide-list",
               "title": "LINE メッセージのアウトライン"
             }
+          },
+          {
+            "id": "477a45f2548db426",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "line-notes-sync:Sync LINE messages": false,
+      "obsidian-git:Open Git source control": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "f3b58091e965335d",
   "lastOpenFiles": [
+    "CS/用語.md",
+    "CS",
     "git_for_iphone/token.txt",
     "git_for_iphone",
     "新しいフォルダー",
@@ -198,7 +218,6 @@
     "Zettelkasten/10_PermanentNote",
     "Zettelkasten/02_Rule",
     "Zettelkasten/01_IndexNote",
-    "Zettelkasten",
     "Welcome.md"
   ]
 }
