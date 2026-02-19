@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "用語"
             }
+          },
+          {
+            "id": "f69195bbf78a5e75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -184,12 +197,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "line-notes-sync:Sync LINE messages": false,
@@ -197,7 +210,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f3b58091e965335d",
+  "active": "f69195bbf78a5e75",
   "lastOpenFiles": [
     "CS/用語.md",
     "CS",
