@@ -23,3 +23,7 @@ kindle-sync:
 そのままやらずに「押し返す」演習 — location: [377](kindle://book?action=open&asin=B01FSE8D1K&location=377) ^ref-58376
 
 ---
+
+そのままやらずに「押し返す」演習 — location: [377](kindle://book?action=open&asin=B01FSE8D1K&location=377) ^ref-58376
+
+---

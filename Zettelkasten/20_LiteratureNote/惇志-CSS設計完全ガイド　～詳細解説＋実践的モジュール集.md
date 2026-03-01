@@ -26,3 +26,10 @@ kindle-sync:
 最悪ですね！ — location: [1838](kindle://book?action=open&asin=B0856YMH7L&location=1838) ^ref-28261
 
 ---
+
+ストラクチャーにあたるプロパティは大まかに ・ width ・ heigth ・ padding ・ margin などが挙げられ、スキンにあたるプロパティは大まかに ・ color ・ font ・ background ・ box-shadow ・ text-shadow — location: [1592](kindle://book?action=open&asin=B0856YMH7L&location=1592) ^ref-47955
+
+---
+最悪ですね！ — location: [1838](kindle://book?action=open&asin=B0856YMH7L&location=1838) ^ref-28261
+
+---
